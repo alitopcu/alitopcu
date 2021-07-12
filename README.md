@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+  <a href="https://github.com/huseyinpalamar/readme-typing-svg%22%3E<img src="https://readme-typing-svg.herokuapp.com/?lines=Don%27t%20repeat%20yourself!;Always%20learning%20new%20things&center=true&width=380&height=45%22%3E</a>
+</p>
 <!--
 **alitopcu/alitopcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
